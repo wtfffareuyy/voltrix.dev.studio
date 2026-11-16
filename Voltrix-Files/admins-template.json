@@ -1,6 +1,0 @@
-{
-  "admins": {
-    "INCOLLA_UID_OWNER": { "email": "EMAIL_OWNER", "role": "owner", "active": true },
-    "INCOLLA_UID_DEV":   { "email": "EMAIL_DEV",   "role": "dev",   "active": true }
-  }
-}
