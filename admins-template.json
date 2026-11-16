@@ -1,6 +1,6 @@
 {
   "admins": {
-    "INCOLLA_UID_OWNER": { "email": "EMAIL_OWNER", "role": "owner", "active": true },
-    "INCOLLA_UID_DEV":   { "email": "EMAIL_DEV",   "role": "dev",   "active": true }
+    "cT6ZcYejGie63Hj9o7uPFp8F8ht1": { "email": "duck.dev@voltrix.studio", "role": "owner", "active": true },
+    "G3mxVGcLkvUYIOiarkUupc9rcB43":   { "email": "sgn.dev@voltrix.studio",   "role": "dev",   "active": true }
   }
 }
